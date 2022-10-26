@@ -2,7 +2,7 @@
 Conception et développement d’un jeu présentant une scène 3D dans laquelle on se déplace à partir des mouvements des mains capté par la webcam(ou autre caméra externe). 
 Développé en utilisant C++, Qt, OpenGL, OpenCV.
 
-#Détail du projet : #
+# Détail du projet : #
 
 Le but du projet est de développer un jeu présentant une scène 3D dans laquelle on se déplace à partir de mouvements des mains.
 
