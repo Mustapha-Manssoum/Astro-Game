@@ -1,4 +1,5 @@
 # Astro-Game
+![My Image](AstroTSE-master/resources/logoTSE509.png)
 Conception et développement d’un jeu présentant une scène 3D dans laquelle on se déplace à partir des mouvements des mains capté par la webcam(ou autre caméra externe). 
 Développé en utilisant C++, Qt, OpenGL, OpenCV.
 
