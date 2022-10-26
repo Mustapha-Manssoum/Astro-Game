@@ -2,7 +2,8 @@
 Conception et développement d’un jeu présentant une scène 3D dans laquelle on se déplace à partir des mouvements des mains capté par la webcam(ou autre caméra externe). 
 Développé en utilisant C++, Qt, OpenGL, OpenCV.
 
-Détail du projet;
+#Détail du projet : #
+
 Le but du projet est de développer un jeu présentant une scène 3D dans laquelle on se déplace à partir de mouvements des mains.
 
 Le joueur doit piloter un vaisseau spatial en évitant des astéroïdes et rejoindre une station orbitale estampillée par le logo de TSE. Les déplacements sont en 3D et sont contrôlés par des mouvements des mains captés par la WebCam du PC. Les astéroïdes sont représentés par des sphères texturées fixes dans le repère de la scène. La station orbitale dont la position est fixe, est constituée d’un assemblage de formes géométriques (parallélépipèdes, cylindres et sphères) et comporte le logo de TSE. Le vaisseau spatial, représenté aussi à partir formes géométriques, est vu de l’arrière et peut se déplacer en 3D suivant 3 types de mouvements : rotation dans le plan horizontal, rotation dans le plan vertical et translation suivant la direction du vaisseau. Les contraintes du jeu sont :
