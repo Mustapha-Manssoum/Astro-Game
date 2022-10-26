@@ -20,7 +20,7 @@ Les contraintes du jeu sont :
 * Un éclairage directionnel sera placé pour donner un rendu réaliste à la scène.
 * Une station orbitale sera placée aléatoirement dans la scène. 
 * Elle sera constituée de formes géométriques pleines conférant aussi une esthétique adaptée. 
-* Elle devra comporter sur l’un de ses éléments, une texture avec le logo de Télécom Saint Etienne. ![My Image](AstroTSE-master/resources/LogoTSE.jpg | width=50)
+* Elle devra comporter sur l’un de ses éléments, une texture avec le logo de Télécom Saint Etienne. ![My Image](AstroTSE-master/resources/LogoTSE.jpg "width=50")
 * Elle sera munie d’une lampe clignotante et tournera lentement sur elle même.
 * Le déplacement du joueur sera commandé par des gestes des deux mains grâce à la WebCam.
 * Les collisions avec les astéroïdes devront être détectées et devront arrêter la partie (partie perdue).
